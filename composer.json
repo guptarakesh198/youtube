@@ -11,7 +11,7 @@
     ],
      "autoload": {
         "psr-4": {
-            "MyData\\": "src/"
+            "guptarakesh198\\MyData\\": "src/"
         }
     },
     "require": {
