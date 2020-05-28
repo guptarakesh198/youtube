@@ -1,0 +1,20 @@
+{
+    "name": "guptarakesh198/youtube",
+    "description": "youtube api v3 php sdk",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rakesh Gupta",
+            "email": "guptarakesh198@gmail.com"
+        }
+    ],
+     "autoload": {
+        "psr-4": {
+            "guptarakesh198\\MyData\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.1"
+    }
+}
